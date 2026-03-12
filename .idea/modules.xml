@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/se2-einzelprojekt-service.iml" filepath="$PROJECT_DIR$/.idea/modules/se2-einzelprojekt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/se2-einzelprojekt-service-main.2026zip.iml" filepath="$PROJECT_DIR$/.idea/se2-einzelprojekt-service-main.2026zip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/se2-einzelprojekt-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/se2-einzelprojekt-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/se2-einzelprojekt-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/se2-einzelprojekt-service.test.iml" />
+    </modules>
+  </component>
+</project>

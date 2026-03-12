@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="se2-einzelprojekt-service" target="21" />
+      <module name="se2-einzelprojekt-service.main" target="21" />
+      <module name="se2-einzelprojekt-service.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="se2-einzelprojekt-service" options="-parameters" />
+      <module name="se2-einzelprojekt-service.main" options="-parameters" />
+      <module name="se2-einzelprojekt-service.test" options="-parameters" />
+    </option>
+  </component>
+</project>
